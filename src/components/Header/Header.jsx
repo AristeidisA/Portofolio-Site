@@ -1,9 +1,9 @@
 import React from 'react'
 import "../Header/Header.css"
 import CTA from "./CTA"
-// import IMG from "../../Assets/IMG.png"
 import HeaderSocials from "./HeaderSocials"
 import IMG1 from "../../Assets/topImg.png"
+
 
 function Header() {
   return (
